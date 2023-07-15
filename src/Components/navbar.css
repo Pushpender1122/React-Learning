@@ -1,0 +1,19 @@
+.nav ul li {
+    list-style: none;
+
+}
+
+.nav ul li a {
+    text-decoration: none;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.nav ul {
+    display: flex;
+
+}
+
+button {
+    margin-right: 10px;
+}
